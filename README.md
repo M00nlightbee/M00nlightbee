@@ -5,7 +5,7 @@
 
 I build practical and data driven apps — projects that are fun *and* useful.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://m00nlightbee.github.io/portfolio/project_dccg.html)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-View-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://m00nlightbee.github.io/portfolio/project_dccg.html) -->
 [![Play Demo](https://img.shields.io/badge/Play%20Demo-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://blessingu.itch.io/ibmskillbuilddccg)
 [![GitHub](https://img.shields.io/badge/GitHub-M00nlightbee-181717?style=for-the-badge&logo=github)](https://github.com/M00nlightbee)
 
