@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Blessing 👋 (M00nlightbee)
+# Hi, I’m Blessing 👋
 **Software Engineering (BEng) student (UK)** • **C#/.NET** • **Unity** • **Python**
 
 I build practical and data driven apps — projects that are fun *and* useful.
