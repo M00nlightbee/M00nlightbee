@@ -38,6 +38,7 @@ A digital collectible card game that helps people learn **AI, Cybersecurity, Clo
 | **AIMS** | Inventory + role-based user management + analytics dashboard | ASP.NET Core MVC, SQL Server, JS/CSS | [Repo](https://github.com/M00nlightbee/AIMS) |
 | **Connect4 AI** | Connect 4 with multiple AI agents (BFS, A*, Minimax, ML, etc.) | Python | [Repo](https://github.com/M00nlightbee/Connect4) |
 | **myPass** | Desktop app, password generator/manager (security upgrades planned) | C# | [Repo](https://github.com/M00nlightbee/myPass) |
+| **Robotics** | Robotics project, incooperation of AI and ML | C++ and Python | [VEX VR](https://github.com/M00nlightbee/Robotics_Assessment) , [Autonomous Robotic System](https://github.com/M00nlightbee/Robotics_AssessmentTwo) |
 
 ---
 
