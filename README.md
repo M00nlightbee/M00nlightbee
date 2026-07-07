@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I’m Blessing 👋
-**Software Engineering (BEng) student (UK)** • **C#/.NET** • **Unity** • **Python**
+# Hi, I’m Blessing 
+**Software Engineering (BEng) Graduate (UK)** • **C#/.NET** • **Unity** • **Python**
 
 I build practical and data driven apps — projects that are fun *and* useful.
 
@@ -14,7 +14,7 @@ I build practical and data driven apps — projects that are fun *and* useful.
 ---
 
 ## About me
-- 🎓 Studying **Software Engineering (BEng)** at **Sheffield Hallam University**
+- 🎓 Studied **Software Engineering (BEng)** at **Sheffield Hallam University**
 - 🧠 Interested in **data anaysis**, **backend/web apps**, **AI search / decision-making** and **game dev**
 - 🤝 Open to graduate schemes / roles  + internships + collaborations (Unity, .NET, Python)
 
