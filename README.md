@@ -39,8 +39,6 @@ A digital collectible card game that helps people learn **AI, Cybersecurity, Clo
 | **Connect4 AI** | Connect 4 with multiple AI agents (BFS, A*, Minimax, ML, etc.) | Python | [Repo](https://github.com/M00nlightbee/Connect4) |
 | **myPass** | Desktop app, password generator/manager (security upgrades planned) | C# | [Repo](https://github.com/M00nlightbee/myPass) |
 
-> Tip: if you’re reviewing the AIMS repo , on first signin the database will timeout, please refresh the page , logout and login again.
-
 ---
 
 ## 🧰 Tech stack
@@ -75,8 +73,10 @@ A digital collectible card game that helps people learn **AI, Cybersecurity, Clo
 ---
 -->
 ## 📈 Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M00nlightbee&show_icons=true) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M00nlightbee&layout=compact)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M00nlightbee&show_icons=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M00nlightbee&layout=compact) -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=M00nlightbee&layout=donut&langs_count=4&hide_values=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=M00nlightbee&layout=donut&langs_count=4&hide_values=true&theme=great-gatsby)
 
 ---
 
